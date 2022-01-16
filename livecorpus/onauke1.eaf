@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2022-01-16T14:49:13+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/stimorol/Desktop/onauke1.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./onauke1.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:00ba57d2-0080-40cb-a00d-906031b9a6ea</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">39</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="5980"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="6000"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="7100"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="8480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="27459"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="28594"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="29526"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="29540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="30499"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="31040"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="32770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="32796"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="34690"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="34742"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="36798"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="36825"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="40014"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="40095"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="42743"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="42743"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="43731"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="44879"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="46969"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="46973"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="52484"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="55060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="57030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="57060"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="70090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="71020"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="74038"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="74240"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="91473"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="91473"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="97014"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="105046"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="110075"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="110082"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="131103"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="131163"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="182016"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="184523"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="214095"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="215142"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="217226"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="217880"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="220083"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="220131"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="226579"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="226579"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="239841"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="240056"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="242342"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="243127"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="250056"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="250128"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="260318"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="260322"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="277036"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="277058"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="280273"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="280344"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="288797"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="289916"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="301345"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="301523"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="305535"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER ANNOTATOR="greg" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="@ysr1944m" TIER_ID="text@ysr1944m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>потому что / эээ если вы / эээ / как математик / то вы должны знать двоичный счет древних русов //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>#одновременно# ноль / ноль / целковый / полушка / четвертушка / осьмушка / пудовичок / медячок / серебрячок / золотничок / осьмичок / девятичок / десятичок / так считали наши предки / а когда нам придумал Пётр Первый с Магнитским математику липовую / с этого началась подмена сознания // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>фальшивая математика //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts15">
+                <ANNOTATION_VALUE>только обманывать и ограблять народ //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>это совершенно точно / и поэтому нам двют таблицу  //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts23">
+                <ANNOTATION_VALUE>это абсолютно точно / но самое //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>а я же вам сказал / нам говорят / что / ара... / мы от арабов научились / а я и говорю / ну скажить пожалуйста / значение ноля кто знает / только у русских //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>точка отсчёта ноль / мало того / ноль играет следующую роль / перевод на следующий уровень через десятки / нам только один дали математики / десять... нулей / сто / тысяча и так далее / но самое главное... //  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
+                TIME_SLOT_REF1="ts32" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>и третье / самое главное / что ноль / является определением единицы счета / это только у русов / поэтому ни один математик мира этого не знает / а нам навязывают ложную математику и что мы откуда-то услышали / так вот //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a19"
+                TIME_SLOT_REF1="ts36" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>нет / это не надо / этого не вариант / для меня это не вариант / нет не вариант / я такие вещи не рассматрию / я рассматриваю только знания / а всякую политику #нрзб# // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a21"
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>абсолютно правильно / вот вы говорили о законах Ньютона / я всем показываю что не один закон Ньютона в природь не работает / мало того / Ньютон подменил всего-навсего своими вывод... выкладками / особенно закон всемирного тяготения / закон Архимеда / подменил / я не уверен что это он сделал / вот тут идут разговоры уже о заговоре / что это может и не он / потому что я показыю / ну вы же все здравомыслящие люди говорю / вы технари / почему вы не видите того / что подводная лодка имеет три положения / у нее замкнутый объём / она изменяет свое положение плотностью / равной воде / безразлично положению / больше плотность на дне / и меньше плотность над водой / при чём тут / Ньютон / когда все взаимодействия определяются плотностью //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts45">
+                <ANNOTATION_VALUE>ну давайте / ещё раз / дальше / когда мы говорим о конкретных взаимодействиях между на уровне любого тела / материала / то там только электрические взаимодействия / также как между водой и воздухом / а в для / в данном случае для воздушных шаров и для подводных лодок работает закон Архимеда / но нам говорят / гравитация / а никакой гравитации в природе нет / это электромагнитные взаимодействия / всего-то-навсего / оно проверяется элементарно / и я говорю / вот вам пре... простой пример //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
+                TIME_SLOT_REF1="ts46" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>да / на уровне электрических полей //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts53">
+                <ANNOTATION_VALUE>нет / приборы многие сделаны вредительски / в частности гальванометр / я всем это показываю / когда вам показывают эту волну / я говорю / вы смотрите / а вы уберите синхронизатор / у вас сразу пойдёт две змейки // а /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
+                TIME_SLOT_REF1="ts54" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>осциллограф / виноват да / в осциллографе / #нрзб# сразу две / но вы специально сделали / для того чтобы сделать синусоиду //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a30"
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>значит / одно другому / я говорю / не мешает / так вот когда я сделал модель атома / модель атома сразу видно / какой атом / проводник / моей модели / в катой... а а / в какой атом диэлектрик / в какой атом / эээ / это / полупроводник / и / поэтому #нрзб# //      </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
+                TIME_SLOT_REF1="ts62" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>у меня он состоит из электронейтральной зарядн... / за... за... / заряда / в виде сферы / называется всерод //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts67">
+                <ANNOTATION_VALUE>да / совершенно верно / и / неслучайно это / потому что / от наших предков эти / ааа / зомбаторы / не успели украсть / основные понятия / для жизни человека //   </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="greg" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="@bsb1954" TIER_ID="text@bsb1954m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>ну вот древних русов счёта #одновременно# я не знаю как математик // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>фальшивая математика да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>то есть по ней считать / только обсчитывать да //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
+                TIME_SLOT_REF1="ts14" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>о / это сильно //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12"
+                TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>а причём во всём мире ведь этой математикой пользуются //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts22" TIME_SLOT_REF2="ts25">
+                <ANNOTATION_VALUE>и все #нрзб# они / кто же это такой вот / ыыы / творец этого заговора //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts26" TIME_SLOT_REF2="ts27">
+                <ANNOTATION_VALUE>да это ладно от кого научились / #нрзб# //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16"
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts33">
+                <ANNOTATION_VALUE>то что вы сказали / это называется позиционная система счисления //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts37">
+                <ANNOTATION_VALUE>не / ну вас однозначно под... поддержат те / кто считает что там / Рим построен по указанию из Москвы / #нрзб# / Москвы / я слышал / нет / не вариант //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a20"
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>а всё-таки зомбирование / обман народа / это какая-то политика / давнишний какой-то заговор / если Петр Первый нас обдурил / европейцев ведь тоже кто-то обдурил / а кто же / кто же / то есть это не просто какие-то наши / хищные / жадные до... до лёгкой наживы академики / это всемирный заговор / лет четыреста уже работает вовсю // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
+                TIME_SLOT_REF1="ts44" TIME_SLOT_REF2="ts47">
+                <ANNOTATION_VALUE>Земля-то к Солнцу притягивается / Земля к Солнцу притягивается // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>а чё ж мы как-то это поля нашими приборами-то не чувствуем / так специально вредительски сделаны приборы //  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
+                TIME_SLOT_REF1="ts52" TIME_SLOT_REF2="ts55">
+                <ANNOTATION_VALUE>это #нрзб# не гальванометр / это вы имеете в виду осциллограф // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a29"
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>нет / ну это там у нас на самом деле накладывается несколько кадров / это вот у нас в телевидении такое тоже бывает #одновременно# / электронно-лучевые трубки / там разъежается изображение / #одновременно# не синхронизировано / изображение // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts63">
+                <ANNOTATION_VALUE>у вас атом не из электронов состоит //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
+                TIME_SLOT_REF1="ts66" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>а вот всё-таки / вы мне раскройте / кто ж такие эти наши зомбаторы-то / в России... // </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="greg" LINGUISTIC_TYPE_REF="gesture"
+        PARTICIPANT="ysr1944m" TIER_ID="gesture@ysr1944m"/>
+    <TIER ANNOTATOR="greg" LINGUISTIC_TYPE_REF="gesture"
+        PARTICIPANT="@bsb1954m" TIER_ID="gesture@bsb1954m"/>
+    <TIER ANNOTATOR="greg" LINGUISTIC_TYPE_REF="words"
+        PARENT_REF="text@ysr1944m" PARTICIPANT="@ysr1944m" TIER_ID="words@ysr1944m"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gesture" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
